@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">lab3</string>
-    <string name="logo_text">Список дел</string>
+    <string name="app_name">СБЕРегатор 3000</string>
+    <string name="add_transaction">Добавить</string>
+    <string name="income">Доход</string>
+    <string name="expense">Расход</string>
+    <string name="enter_amount">Введите сумму</string>
 </resources>
